@@ -1,4 +1,4 @@
-baseURL = "https://ridingintraffic.github.io/wiki"
+baseURL = "https://ridingintraffic.github.io/wiki/"
 languageCode = "en-us"
 title = "wiki"
 theme = "after-dark"
