@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://ridingintraffic.github.io/wiki/"
 languageCode = "en-us"
 title = "wiki"
 theme = "after-dark"
+publishDir = "docs"
