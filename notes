@@ -1,0 +1,4 @@
+hugo new posts/my-first-post.md
+
+hugo ; generates the pages
+
